@@ -1,8 +1,8 @@
 # Web의 기본 3가지 요소
 
 ## URI(Uniform Resource Identifier)
-리소스 식별자
-모든 정보에 접근할 수 있는 정보
+* 리소스 식별자
+* 모든 정보에 접근할 수 있는 정보
 
 
 ## HTTP(Hypertext Transfer Protocol)
