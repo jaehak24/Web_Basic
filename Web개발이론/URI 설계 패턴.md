@@ -1,5 +1,7 @@
 # URI
-인터넷에서 특정 자원을 나타내는 주소 값. 해당 값은 유일하다.
+인터넷에서 특정 자원을 나타내는 주소 값, URI 유일하다.
+ex>
+![image](https://user-images.githubusercontent.com/65396939/216335452-68cbc2d4-0859-428d-950f-ed79eff8b80a.png)
 
 # URL
 인터넷 상에서의 자원, 특정 파일이 어디에 위치하는지 식별하는 주소
