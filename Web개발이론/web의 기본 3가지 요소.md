@@ -16,6 +16,10 @@
 7. TRACE
 8. CONNECT
 
+## get post 차이
+![image](https://user-images.githubusercontent.com/65396939/216621623-ef58ef85-d9a5-4992-abdc-3c5ac4d1ff8e.png)
+
+
 ## HTML(Hyper Text Markup Language)
 하이퍼미디어 포맷
 xml을 바탕으로한 범용 문서 포맷
